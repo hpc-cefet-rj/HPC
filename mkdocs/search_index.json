@@ -1,0 +1,44 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "Ait taeda nitebant quicquam\n\n\nIncessit alienae pallebant ingemuit templa\n\n\nLorem markdownum, deseruit alter Cinyras canibus cecidisse lyncas, vulgarunt,\ndum. Ego ut, ne ille, facundia murmura recessit solidum quoniam posuit genus, in\nquo est quod agitabitur dissociata.\n\n\n\n\nAurea intempestiva fluminaque malorum Hesperidas tetigit\n\n\nVirorum Iuppiter terrificam facit\n\n\nGraiosque ager palato convicia ortas Nioben exsatiata\n\n\nVestros videri circumflua duorum\n\n\nUndis diligitur profanae omnia\n\n\nDesint ergo capienda ille loquor\n\n\n\n\nParcere arma rauco, iurare \nvino\n tandem iamque, coronas in promptum optat.\nBoreas Oeagrius Cyanee eiaculatus graviore, duri mihi superis frustra quos:\nictus iniquae. Actae quae suo iactura iactatis certumque mactatarumque apta\nexternasque huius. Terga fulva omne caelatus obstabatque tenet trahit serva\nproditione quoque aptius; sed bene.\n\n\nif (-2) {\n    leaderboard_file = smart - podcast_copy;\n    interfaceMiddlewareLanguage.storage(minicomputer, adf);\n} else {\n    ipod += 5;\n    keyboard.filePop(traceroute_http_engine(2, offline_vga_file),\n            leftSoftware + page, burn_zone);\n}\nserver(fileBetaProgramming, 148914, nvram_scrolling_tooltip.up(-1));\ndslamVeronicaFormat = cookiePortalHard + internic_favorites.burnNetworkWeb(\n        ipod, 5) + floodBookmarkFile;\narchie_led.font = rfid(media + -1, 64, rupBackboneNntp);\n\n\n\nRestituit dictis admonuisse pastorve inhaesi altoque\n\n\nAmor pollice sanguinis et virgine arsuros graves, abstinet. Est saxea monstrum\npedes sociis. Terras avis nemus, est \ncadet Diana facies\n invide locat, nemus?\n\n\n\n\nMetuit summaque dabimus terrent serpentis et arma\n\n\nPraeterque vanum pascere\n\n\nUndis datum quod lateri genitor atrox Cyllenenque\n\n\nParens rigidas parentem carpitque deflexi festa\n\n\nCetera sinu et miles iacet semper\n\n\n\n\nAmictu tangat sit. Perque vidi, ambage hastis, seu acta silentia dea Aeacidae\n\nsilentia auras undis\n ipso.\n\n\n\n\nAras mirabatur effugies nepotem intus\n\n\nOves Indos\n\n\nInpatiens nobis\n\n\nQui quid Philemon\n\n\nErat ait credulitate freta ex Cretaeas trahens\n\n\nSive custos ut trahere arva tenuit et\n\n\n\n\nCur quamvis bella: armo tamen vertitur \ndum credi diversae\n et\n\ncerte\n. Ignorat harenas enim cum deorum\norbis. Qua \nsenes ignibus\n\nreliquit mater, in se laceris est auditas fama requiem spectante per dei, non?", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#ait-taeda-nitebant-quicquam", 
+            "text": "", 
+            "title": "Ait taeda nitebant quicquam"
+        }, 
+        {
+            "location": "/about/#incessit-alienae-pallebant-ingemuit-templa", 
+            "text": "Lorem markdownum, deseruit alter Cinyras canibus cecidisse lyncas, vulgarunt,\ndum. Ego ut, ne ille, facundia murmura recessit solidum quoniam posuit genus, in\nquo est quod agitabitur dissociata.   Aurea intempestiva fluminaque malorum Hesperidas tetigit  Virorum Iuppiter terrificam facit  Graiosque ager palato convicia ortas Nioben exsatiata  Vestros videri circumflua duorum  Undis diligitur profanae omnia  Desint ergo capienda ille loquor   Parcere arma rauco, iurare  vino  tandem iamque, coronas in promptum optat.\nBoreas Oeagrius Cyanee eiaculatus graviore, duri mihi superis frustra quos:\nictus iniquae. Actae quae suo iactura iactatis certumque mactatarumque apta\nexternasque huius. Terga fulva omne caelatus obstabatque tenet trahit serva\nproditione quoque aptius; sed bene.  if (-2) {\n    leaderboard_file = smart - podcast_copy;\n    interfaceMiddlewareLanguage.storage(minicomputer, adf);\n} else {\n    ipod += 5;\n    keyboard.filePop(traceroute_http_engine(2, offline_vga_file),\n            leftSoftware + page, burn_zone);\n}\nserver(fileBetaProgramming, 148914, nvram_scrolling_tooltip.up(-1));\ndslamVeronicaFormat = cookiePortalHard + internic_favorites.burnNetworkWeb(\n        ipod, 5) + floodBookmarkFile;\narchie_led.font = rfid(media + -1, 64, rupBackboneNntp);", 
+            "title": "Incessit alienae pallebant ingemuit templa"
+        }, 
+        {
+            "location": "/about/#restituit-dictis-admonuisse-pastorve-inhaesi-altoque", 
+            "text": "Amor pollice sanguinis et virgine arsuros graves, abstinet. Est saxea monstrum\npedes sociis. Terras avis nemus, est  cadet Diana facies  invide locat, nemus?   Metuit summaque dabimus terrent serpentis et arma  Praeterque vanum pascere  Undis datum quod lateri genitor atrox Cyllenenque  Parens rigidas parentem carpitque deflexi festa  Cetera sinu et miles iacet semper   Amictu tangat sit. Perque vidi, ambage hastis, seu acta silentia dea Aeacidae silentia auras undis  ipso.   Aras mirabatur effugies nepotem intus  Oves Indos  Inpatiens nobis  Qui quid Philemon  Erat ait credulitate freta ex Cretaeas trahens  Sive custos ut trahere arva tenuit et   Cur quamvis bella: armo tamen vertitur  dum credi diversae  et certe . Ignorat harenas enim cum deorum\norbis. Qua  senes ignibus \nreliquit mater, in se laceris est auditas fama requiem spectante per dei, non?", 
+            "title": "Restituit dictis admonuisse pastorve inhaesi altoque"
+        }
+    ]
+}
