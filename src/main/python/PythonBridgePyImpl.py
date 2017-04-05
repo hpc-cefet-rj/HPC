@@ -16,7 +16,7 @@ class PythonBridgePyImpl(object):
         print (expr)
         return "»»»»»» PythonBridgePyImpl Python class said: Receveid eval request from java. expr = {0}".format(expr)
     class Java:
-        implements = ["myscala.IHello"]
+        implements = ["myscala.wfw.PythonBridge"]
 
 from py4j.clientserver import ClientServer, JavaParameters, PythonParameters
 pythonBridge = PythonBridgePyImpl()
