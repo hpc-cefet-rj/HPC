@@ -2,24 +2,24 @@
 # -*- coding: utf-8 -*-
 
 shutdownRequested = False
-class PythonBridge(object):
+class PythonBridgePyImpl(object):
     def controlCommand(self, cmd="shutdown"):
         print (cmd, " Requested")
         global shutdownRequested
         shutdownRequested = True
-        return "»»»»»» PythonBridge Python class said: Receveid controlCommand. Command {0} requested".format(cmd)
+        return "»»»»»» PythonBridgePyImpl Python class said: Receveid controlCommand. Command {0} requested".format(cmd)
     def loadUDF(self, udfLibraryFileName= "/desenv/lib01.py", expr=""):
         print (udfLibraryFileName, expr)
         execfile(udfLibraryFileName)
-        return "»»»»»» PythonBridge Python class said: Receveid loadUDF request from java. udfLibraryFileName = {0}, expr = {1}".format(udfLibraryFileName, expr)
+        return "»»»»»» PythonBridgePyImpl Python class said: Receveid loadUDF request from java. udfLibraryFileName = {0}, expr = {1}".format(udfLibraryFileName, expr)
     def eval(self, expr=""):
         print (expr)
-        return "»»»»»» PythonBridge Python class said: Receveid eval request from java. expr = {0}".format(expr)
+        return "»»»»»» PythonBridgePyImpl Python class said: Receveid eval request from java. expr = {0}".format(expr)
     class Java:
         implements = ["myscala.IHello"]
 
 from py4j.clientserver import ClientServer, JavaParameters, PythonParameters
-pythonBridge = PythonBridge()
+pythonBridge = PythonBridgePyImpl()
 gateway = ClientServer(
     java_parameters=JavaParameters(),
     python_parameters=PythonParameters(),
